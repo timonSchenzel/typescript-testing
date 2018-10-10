@@ -9,5 +9,3 @@ export class Assertion implements AssertionContract
         return new Assertion;
     }
 }
-
-window.Assertion = Assertion;
